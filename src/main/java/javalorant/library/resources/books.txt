@@ -1,0 +1,5 @@
+B-100,How to code JavaScript,Mark Zeus,2020
+B-101,How to play K'Sante,Faker,2021
+B-102,How to be TLiet con,Khue,2019
+B-103,How to play LeBlanc,Faker,2015
+B-104,How to code TypeScript,Mark Zeus,2021
